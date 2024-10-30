@@ -1,0 +1,44 @@
+.markeking-floating-cart{
+	width: 200px;
+	position: fixed;
+	overflow: visible;
+	z-index: 9999999;
+	bottom: 15px !important;
+	right: 10px;
+	float: right;
+	padding: 5px;
+	font-size: 11px;
+	background-color: #333;
+	background-color: rgba(51, 51, 51, 0.42);
+	border-radius: 5px;
+	border: 2px solid #ff7f00;
+	text-align: right;
+	line-height: 1;
+	text-shadow: 1px 1px 1px #000;
+	color: #E6E6E6;
+}
+
+.markeking-floating-cart_1a_fila{
+	text-align: right;
+}
+
+.markeking-floating-cart_1a_fila img{
+	float: right;
+	margin-left: 5px;
+}
+
+.markeking-floating-cart_num_prod{
+	display: inline-block;
+}
+
+.markeking-floating-cart_total{
+	display: inline-block;
+	font-size: 36px;
+}
+
+.markeking-floating-cart a{
+	display: block;
+	text-shadow: 1px 1px 1px #000;
+	color: #E6E6E6;
+	text-transform: uppercase;
+}
